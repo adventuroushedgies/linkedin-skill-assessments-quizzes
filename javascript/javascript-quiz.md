@@ -1089,3 +1089,14 @@ console.log(obj2.a, obj2.b);
 - [x] 0 2
 - [ ] undefined 2
 - [ ] undefined 2
+
+#### Q96. What will be logged to the console?
+
+```js
+console.log(typeof "blueberry");
+```
+
+- [ ] array
+- [x] string
+- [ ] Boolean
+- [ ] object
